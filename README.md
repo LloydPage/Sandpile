@@ -1,0 +1,1 @@
+Code for generating sandpile model. Run times may be atrocious for large enough sandpiles. The code does not save things automatically, it is up to the user to do so. Run using Python3. Must have numpy and matplotlib to run.
