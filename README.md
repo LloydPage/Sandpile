@@ -1,1 +1,1 @@
-Code for generating sandpile model. Run times may be atrocious for large enough sandpiles. The code does not save things automatically, it is up to the user to do so. Run using Python3. Must have numpy and matplotlib to run.
+Code for sandpile model. Runtimes may be atrocious if sandpiles are sufficiently large. Does not autosave files, so saving is left to the user. Needs Python3, Numpy, and matplotlib to run. Only handles 2 directional (up and right) or 4 directional toppling. Leakage is multiplicative, as described in the paper.
